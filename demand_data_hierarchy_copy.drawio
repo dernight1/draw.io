@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-8" value="gpfa_bidconfirm_project_candidate (中标候选人表)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="130" width="330" height="120" as="geometry" />
+          <mxGeometry x="960" y="40" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-8" vertex="1">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-15" value="gpfa_bidconfirm_supplier (定标供应商签到表)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="290" width="290" height="120" as="geometry" />
+          <mxGeometry x="960" y="190" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-15" vertex="1">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
@@ -321,7 +321,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-29" value="gpfa_bidconfirm_supplier_price_main (报价主表，可以是一览表和明细表的汇总描述)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="460" width="500" height="120" as="geometry" />
+          <mxGeometry x="1380" y="70" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-29" vertex="1">
           <mxGeometry y="30" width="500" height="30" as="geometry" />
@@ -363,7 +363,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-43" value="gpfa_bidconfirm_supplier_price_item (报价主表关联键值对项)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="620" width="390" height="120" as="geometry" />
+          <mxGeometry x="1390" y="260" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-43" vertex="1">
           <mxGeometry y="30" width="390" height="30" as="geometry" />
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-50" value="gpfa_bidconfirm_quotation_detail (供应商报价明细信息表)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="760" width="390" height="120" as="geometry" />
+          <mxGeometry x="1390" y="410" width="390" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-50" vertex="1">
           <mxGeometry y="30" width="390" height="30" as="geometry" />
@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-64" value="gpfa_bidconfirm_attachment (附件表)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="900" width="250" height="90" as="geometry" />
+          <mxGeometry x="960" y="350" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yrUbXI8ThPMAax_TOY56-65" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="yrUbXI8ThPMAax_TOY56-64" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -529,13 +529,13 @@
             <mxPoint x="910" y="720.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-3" target="yrUbXI8ThPMAax_TOY56-33" edge="1">
+        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KnFCT2eKqXqhlbOmTrNA-4" target="KnFCT2eKqXqhlbOmTrNA-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="770" y="5" as="sourcePoint" />
             <mxPoint x="980" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-3" target="yrUbXI8ThPMAax_TOY56-47" edge="1">
+        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KnFCT2eKqXqhlbOmTrNA-4" target="KnFCT2eKqXqhlbOmTrNA-10" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="560" y="150" as="sourcePoint" />
             <mxPoint x="890" y="1060.0000000000005" as="targetPoint" />
@@ -547,7 +547,7 @@
             <mxPoint x="980" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-3" target="yrUbXI8ThPMAax_TOY56-54" edge="1">
+        <mxCell id="6_iDh6ZtNzUPL-SmUHNQ-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KnFCT2eKqXqhlbOmTrNA-4" target="yrUbXI8ThPMAax_TOY56-54" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="480" y="220" as="sourcePoint" />
             <mxPoint x="890" y="1205" as="targetPoint" />
