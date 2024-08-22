@@ -853,7 +853,7 @@
           <mxGeometry y="1140" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yBrNCFbs29Fst5mHjsf9-1" value="GpfaBidconfirmQuotationDetailVo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2470" width="260" height="1350" as="geometry">
+          <mxGeometry x="560" y="2470" width="260" height="1260" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -979,15 +979,6 @@
         </mxCell>
         <mxCell id="yBrNCFbs29Fst5mHjsf9-43" value="String sourceParamId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="yBrNCFbs29Fst5mHjsf9-1">
           <mxGeometry y="1230" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yBrNCFbs29Fst5mHjsf9-42" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="yBrNCFbs29Fst5mHjsf9-1">
-          <mxGeometry y="1260" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yBrNCFbs29Fst5mHjsf9-41" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="yBrNCFbs29Fst5mHjsf9-1">
-          <mxGeometry y="1290" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yBrNCFbs29Fst5mHjsf9-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="yBrNCFbs29Fst5mHjsf9-1">
-          <mxGeometry y="1320" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
