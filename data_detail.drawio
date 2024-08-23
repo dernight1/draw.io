@@ -1190,6 +1190,51 @@
             <mxPoint x="320" y="2719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-55" value="KEY" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-312.5" y="1930" width="275" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-56" value="deliveryTime 交货期限" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="30" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-57" value="deliveryScore 交货的地域范围" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="60" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-58" value="contractPayType 支付方式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="90" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-65" value="contractPayCondition 支付时间和条件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="120" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-64" value="productUpdateRule 产品升级换代规则" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="150" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-63" value="packagingTransportationMethod 包装方式及运输" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="180" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-62" value="productSaleProof 产品在售证明" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="210" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-72" value="aftercare 售后服务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="240" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-71" value="qualityWarrantyScope 质量保修范围和保期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="270" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-70" value="contractLiability 违约责任" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="300" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-69" value="resolveDisputes 解决争议的方式" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="330" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-68" value="other 其他" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry y="360" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="jJFGgtmmb8NNKWefRlXa-52" target="jJFGgtmmb8NNKWefRlXa-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-350" y="1930" as="sourcePoint" />
+            <mxPoint x="-300" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
