@@ -1181,6 +1181,12 @@
         <mxCell id="jJFGgtmmb8NNKWefRlXa-44" value="String acquisitionTypeName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="jJFGgtmmb8NNKWefRlXa-30">
           <mxGeometry y="510" width="310" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jJFGgtmmb8NNKWefRlXa-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m__d6OJdyXCMt7KyZCjO-21" target="jJFGgtmmb8NNKWefRlXa-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="14" y="1450" as="sourcePoint" />
+            <mxPoint x="320" y="2719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
