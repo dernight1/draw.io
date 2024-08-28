@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7">
   <diagram name="第 1 页" id="CSqLPtNgL-avwrGDaTlB">
-    <mxGraphModel dx="2967" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3154" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -668,19 +668,19 @@
         <mxCell id="JMdAkeIzqonVhZbLqowp-72" value="Integer ownRanking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
           <mxGeometry y="570" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-94" value="List&amp;lt;GpfaBidconfirmSupplierPriceMainVo&amp;gt; priceMainList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-94" value="List&amp;lt;KcAgreementSupplierPriceMainDTO&amp;gt; priceMainList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
           <mxGeometry y="600" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-97" value="List&amp;lt;GpfaBidconfirmSupplierPriceItemVo&amp;gt; priceItemList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-97" value="List&amp;lt;KcAgreementSupplierPriceItemDTO&amp;gt; priceItemList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
           <mxGeometry y="630" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-96" value="List&amp;lt;GpfaBidconfirmQuotationDetailVo&amp;gt; quotationDetailList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-96" value="List&amp;lt;KcAgreementSupplierQuotationDetailDTO&amp;gt; quotationDetailList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
           <mxGeometry y="660" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-95" value="List&amp;lt;GpfaBidconfirmSupplierResponseVo&amp;gt; supplierResponseList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-95" value="List&amp;lt;KcAgreementSupplierResponseDTO&amp;gt; supplierResponseList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1" parent="JMdAkeIzqonVhZbLqowp-50" vertex="1">
           <mxGeometry y="690" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-74" value="GpfaBidconfirmSupplierPriceMainVo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-74" value="KcAgreementSupplierPriceMainDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="900" width="260" height="600" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -742,7 +742,7 @@
         <mxCell id="JMdAkeIzqonVhZbLqowp-93" value="Integer ownRanking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="JMdAkeIzqonVhZbLqowp-74" vertex="1">
           <mxGeometry y="570" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMdAkeIzqonVhZbLqowp-98" value="GpfaBidconfirmSupplierPriceItemVo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="JMdAkeIzqonVhZbLqowp-98" value="KcAgreementSupplierPriceItemDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="900" width="260" height="1170" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -861,7 +861,7 @@
         <mxCell id="JMdAkeIzqonVhZbLqowp-134" value="String catalogueBrand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="JMdAkeIzqonVhZbLqowp-98" vertex="1">
           <mxGeometry y="1140" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yBrNCFbs29Fst5mHjsf9-1" value="GpfaBidconfirmQuotationDetailVo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="yBrNCFbs29Fst5mHjsf9-1" value="KcAgreementSupplierQuotationDetailDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-693" y="900" width="260" height="1260" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -989,7 +989,7 @@
         <mxCell id="yBrNCFbs29Fst5mHjsf9-43" value="String sourceParamId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="yBrNCFbs29Fst5mHjsf9-1" vertex="1">
           <mxGeometry y="1230" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yBrNCFbs29Fst5mHjsf9-46" value="GpfaBidconfirmSupplierResponseVo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="yBrNCFbs29Fst5mHjsf9-46" value="KcAgreementSupplierResponseDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1620" y="900" width="260" height="360" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
