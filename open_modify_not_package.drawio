@@ -85,7 +85,7 @@
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-61" value="gpfa_demand（原需求）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-62" value="&lt;font color=&quot;#ff0000&quot;&gt;id (新)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="C_WyQ4mjt2KQoDGE2Ylt-61" vertex="1">
+        <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-62" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="C_WyQ4mjt2KQoDGE2Ylt-61" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-63" value="&lt;div&gt;demand_id&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="C_WyQ4mjt2KQoDGE2Ylt-61" vertex="1">
@@ -132,12 +132,6 @@
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-77" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="390" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-78" value="不复制新数据，按照原变更流程进行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="380" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-79" value="原需求数据只剩包B关联了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="355" y="390" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7AQJ3rgcb81PWTpKVxPb-6" value="gpfa_demand_snapshot（快照数据）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="205" width="260" height="300" as="geometry" />
