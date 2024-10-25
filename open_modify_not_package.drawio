@@ -53,10 +53,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-17" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="230" width="60" height="50" as="geometry" />
+          <mxGeometry x="10" y="210" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-22" value="发起变更，备份原需求以及其所有附属数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="240" width="160" height="30" as="geometry" />
+          <mxGeometry x="60" y="220" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-61" value="gpfa_demand（原需求）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="140" height="150" as="geometry" />
@@ -107,10 +107,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C_WyQ4mjt2KQoDGE2Ylt-77" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="390" width="60" height="50" as="geometry" />
+          <mxGeometry x="15" y="370" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7AQJ3rgcb81PWTpKVxPb-6" value="gpfa_demand_snapshot（快照数据）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="205" width="260" height="300" as="geometry" />
+          <mxGeometry x="-500" y="170" width="260" height="300" as="geometry" />
         </mxCell>
         <mxCell id="7AQJ3rgcb81PWTpKVxPb-7" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="7AQJ3rgcb81PWTpKVxPb-6" vertex="1">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
@@ -140,15 +140,7 @@
           <mxGeometry y="270" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7AQJ3rgcb81PWTpKVxPb-21" value="保存快照数据集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7AQJ3rgcb81PWTpKVxPb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="7AQJ3rgcb81PWTpKVxPb-11" target="A11gRQvkqmPCRC_q29OH-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="310" />
-              <mxPoint x="730" y="95" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-10" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7AQJ3rgcb81PWTpKVxPb-25" value="gpfa_demand_snapshot（快照数据）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="740" width="260" height="300" as="geometry" />
@@ -303,7 +295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-rqEUNTvisuXsaE-r4DA-1" value="源数据大体不变，仅改变一些字段数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="355" y="400" width="160" height="30" as="geometry" />
+          <mxGeometry x="85" y="380" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
